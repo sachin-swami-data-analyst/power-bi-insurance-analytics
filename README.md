@@ -217,11 +217,8 @@ Insurance-PowerBI-Analytics/
 ├── README.md
 ├── Insurance_Analytics.pbix
 │
-├── Dataset/
-│   ├── 01_DIM_Customer.xlsx
-│   ├── 02_DIM_Policy.xlsx
-│   ├── 03_FACT_Claims.xlsx
-│   └── 04_DIM_Agent.xlsx
+├── DAX/
+│   └── DAX_Measures.md
 │
 └── Screenshots/
     ├── 01_Claims_Overview.png
