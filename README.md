@@ -50,7 +50,7 @@ The data model is designed to support analysis across customers, policies, claim
 
 # 📈 Dashboard Pages
 
-## 1. Claims Overview
+## 1. Executive_Overview
 
 The Claims Overview dashboard provides a high-level view of insurance claim performance.
 
@@ -74,7 +74,7 @@ The dashboard contains claim trends from 2019 to 2024.
 
 ---
 
-## 2. Claims Analysis
+## 2. Claims_Analysis
 
 This page provides detailed analysis of claim processing and claim status.
 
@@ -99,7 +99,7 @@ The dashboard includes Approved, Partially Approved, Pending, Rejected, and Unde
 
 ---
 
-## 3. Policy Analysis
+## 3. Policy_Performance
 
 This dashboard analyzes policy portfolio and premium performance.
 
@@ -122,7 +122,7 @@ The report analyzes channels including Agent, Bank, Broker, Direct, and Online.
 
 ---
 
-## 4. Agent Performance
+## 4. Agent_Performance
 
 This dashboard evaluates agent productivity and target performance.
 
@@ -147,7 +147,7 @@ The dashboard includes agent target achievement and regional performance analysi
 
 ---
 
-## 5. Customer Analysis
+## 5. Customer_Insights
 
 This dashboard provides customer-level analysis.
 
