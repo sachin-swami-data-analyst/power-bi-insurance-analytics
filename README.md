@@ -221,11 +221,11 @@ Insurance-PowerBI-Analytics/
 │   └── DAX_Measures.md
 │
 └── Screenshots/
-    ├── 01_Claims_Overview.png
+    ├── 01_Executive_Overview.png
     ├── 02_Claims_Analysis.png
-    ├── 03_Policy_Analysis.png
-    ├── 04_Agent_Analysis.png
-    └── 05_Customer_Analysis.png
+    ├── 03_Policy_Performance.png
+    ├── 04_Agent_Performance.png
+    └── 05_Customer_Insights.png
 ```
 
 ---
